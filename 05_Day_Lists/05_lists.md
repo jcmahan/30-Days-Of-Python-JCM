@@ -90,7 +90,7 @@ Lists with initial values. We use _len()_ to find the length of a list.
 fruits = ['banana', 'orange', 'mango', 'lemon']                     # list of fruits
 vegetables = ['Tomato', 'Potato', 'Cabbage','Onion', 'Carrot']      # list of vegetables
 animal_products = ['milk', 'meat', 'butter', 'yoghurt']             # list of animal products
-web_techs = ['HTML', 'CSS', 'JS', 'React','Redux', 'Node', 'MongDB'] # list of web technologies
+web_techs = ['HTML', 'CSS', 'JS', 'React','Redux', 'Node', 'MongoDB'] # list of web technologies
 countries = ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway'] 
 
 # Print the lists and its length
@@ -114,7 +114,7 @@ Vegetables: ['Tomato', 'Potato', 'Cabbage', 'Onion', 'Carrot']
 Number of vegetables: 5
 Animal products: ['milk', 'meat', 'butter', 'yoghurt']
 Number of animal products: 4
-Web technologies: ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongDB']
+Web technologies: ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongoDB']
 Number of web technologies: 7
 Countries: ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway']
 Number of countries: 5
