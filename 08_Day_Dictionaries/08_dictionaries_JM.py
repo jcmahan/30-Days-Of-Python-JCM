@@ -15,6 +15,7 @@ print('The length of the skills element is: ', len(student['skills']))
 print('The type of the skills element is', type(student['skills']))
 # Modify the skills values by adding one or two skills
 student['skills'].append('AWS')
+student['skills'].extend(['Git', 'Markdown'])
 print(f"The updated student's skills are {student['skills']}")
 # Get the dictionary keys as a list
 print('The keys of this dictionary are' , student.keys())
